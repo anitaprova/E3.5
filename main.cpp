@@ -1,3 +1,11 @@
+/*
+ * Author: Anita Prova
+ * Course: CSCI-135
+ * Instructor: Genady Maryash
+ * Assignment: Homework E3.5
+ * The program take 3 integers and tells you whether its increasing or not
+ * */
+
 #include <iostream>
 
 using namespace std;
